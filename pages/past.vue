@@ -154,6 +154,11 @@ export default {
           name: 'Jiaqi Wu',
           image: '/images/bio/jiaqi.jpeg',
           bio: 'Jiaqi Wu is a senior at Harvard-Westlake School. She is a US Physics Camp attendee, NAC gold medalist and Math Prize for Girls qualifier. Outside of physics and math, she likes to read and make desserts.'
+        },
+        {
+          name: 'Anushka Polapally',
+          image: '/images/bio/anushka.png',
+          bio: 'Anushka Polapally is a senior at Obra D. Tompkins High School in Katy, Texas. She is an AIME qualifier and USACO Silver qualifier, along with being an officer of her school’s math club. Anushka is very passionate about teaching competition math to others, shown by her contribution to forming a contest math team and classes at her high school. In her free time, you can find Anushka listening to music, playing with her dog, and eating food with her friends.'
         }
       ]
     }

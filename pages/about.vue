@@ -53,11 +53,6 @@ export default {
           bio: 'Hengrui is a junior at The Harker School. He is a USAMO medalist, USAJMO Winner, and a BMT and SMT Distinguished HM. In his free time, he enjoys playing chess and board games, reading science magazines, and hiking.'
         },
         {
-          name: 'Anushka Polapally',
-          image: '/images/bio/anushka.png',
-          bio: 'Anushka Polapally is a senior at Obra D. Tompkins High School in Katy, Texas. She is an AIME qualifier and USACO Silver qualifier, along with being an officer of her school’s math club. Anushka is very passionate about teaching competition math to others, shown by her contribution to forming a contest math team and classes at her high school. In her free time, you can find Anushka listening to music, playing with her dog, and eating food with her friends.'
-        },
-        {
           name: 'Andrew Shi',
           image: '/images/bio/andrewshi.jpg',
           bio: 'Andrew Shi is a sophomore at The Harker School. He is a USACO Platinum contestant and qualified once for the USAJMO, receiving an honorable mention. If he had to choose between math and CS, he would pick math. When not programming with his friends or doing math, you may find him playing tennis.'
