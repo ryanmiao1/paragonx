@@ -8,7 +8,7 @@ instructor: Alex Jin
 description: 'This course aims to teach students who have already finished learning basic calculus-based physics some advanced circuits principles and tricks to help them master almost all questions related to electrical circuits that could appear in USAPhO or the national Olympiads for other countries.'
 registration: 'https://forms.gle/jJeYdRxEh8YaB6gm6'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 

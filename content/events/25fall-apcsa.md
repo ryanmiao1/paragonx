@@ -8,7 +8,7 @@ instructor: Regina Zhang and Rachel Li
 description: 'This eight-week course will introduce and cover important topics from the four units of AP Computer Science A and is designed for students with basic knowledge of computer science.'
 registration: 'https://forms.gle/yFREj9VuHAdqijUM8'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 

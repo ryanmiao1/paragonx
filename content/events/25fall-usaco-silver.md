@@ -8,7 +8,7 @@ instructor: Yash Belani
 description: 'This six-week course is designed to teach students concepts that appear frequently in the USACO Silver division and in other major programming competitions.'
 registration: 'https://forms.gle/Pvsga4o375ZU5kZ69'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 

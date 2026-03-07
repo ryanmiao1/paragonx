@@ -9,7 +9,7 @@ description: 'This 10-week course targets students who enjoy algebra and want to
 
 registration: 'https://forms.gle/R3X2389HSkDimn4z7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 

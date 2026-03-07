@@ -8,7 +8,7 @@ instructor: Ellie Zhou
 description: 'This six-week, hands-on course is designed for students who want to learn the essentials of machine learning and how to apply them in practice.'
 registration: 'https://forms.gle/CQDWXsBhvPaC5MJZ6'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 

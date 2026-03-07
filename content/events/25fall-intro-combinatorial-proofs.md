@@ -9,7 +9,7 @@ description: 'This 10-week course surveys entry-level olympiad combinatorics. No
 
 registration: 'https://forms.gle/fcgzW3Xi2CRtQd6n7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 

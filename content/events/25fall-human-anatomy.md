@@ -9,7 +9,7 @@ description: 'This eight-week course is designed for middle and high school stud
 
 registration: 'https://forms.gle/G2ZtjLraNdjNXnH76'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 

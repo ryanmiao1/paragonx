@@ -8,7 +8,7 @@ instructor: Lucas Wu
 description: 'This course is for students who are at around the AP Physics C level for Electromagnetism, and want to master EM for physics olympiads (e.g., USAPhO).'
 registration: 'https://forms.gle/4tzymocZmQeRWXCJ7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 

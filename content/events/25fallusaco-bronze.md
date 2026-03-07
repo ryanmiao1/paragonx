@@ -9,7 +9,7 @@ description: 'This is a 12 week course designed to teach students the fundamenta
 
 registration: 'https://forms.gle/cF8JrYZo8dwb9Xhn7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 

@@ -9,7 +9,7 @@ description: 'This 10 week organic chemistry course will go from covering introd
 
 registration: 'https://forms.gle/FeCuGQJxwEYTUDyM9'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 

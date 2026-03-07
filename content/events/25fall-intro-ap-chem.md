@@ -9,7 +9,7 @@ description: 'This 10 week class is intended for those with no chemistry experie
 
 registration: 'https://forms.gle/Mf3RZvY75oy2HMaK7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 

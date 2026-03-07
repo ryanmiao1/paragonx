@@ -9,7 +9,7 @@ description: 'This ten-week course is for students (in 10th grade or below) aimi
 
 registration: 'https://forms.gle/9e3LvFCKbXdC9LY89'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 

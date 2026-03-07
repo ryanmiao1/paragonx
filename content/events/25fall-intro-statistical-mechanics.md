@@ -8,7 +8,7 @@ instructor: Pascal Qin
 description: 'This 8 week course introduces the fundamental results of thermodynamics through a statistical mechanics viewpoint.'
 registration: 'https://forms.gle/r1hxDxj6kSeUykWK8'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 

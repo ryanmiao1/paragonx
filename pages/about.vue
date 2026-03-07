@@ -60,7 +60,7 @@ export default {
         {
           name: 'Benjamin Tang',
           image: '/images/bio/ben.jpg',
-          bio: 'Benjamin Tang is a freshman at Del Norte High School in San Diego, California. He is interested in subjects that require critical thinking, like physics, math, coding, and chess, as he is a 3x AIME, USACO Silver qualifier, and chess FIDE Master. In his free time, Benjamin likes to hike and run (despite being very bad), code useless fun coding projects, and play board games.'
+          bio: 'Benjamin Tang is a freshman at Del Norte High School in San Diego, Calfornia. He enjoys physics, math, coding, and chess. He is a 4x AIME + USAJMO qualifier, USACO Silver qualifier, and chess FIDE Master. In his free time, Benjamin likes to hike and run, code fun projects, and play board games.'
         },
         {
           name: 'Vihaan Gupta',
@@ -94,7 +94,7 @@ export default {
         {
           name: 'Regina Zhang',
           image: '/images/bio/regina.png',
-          bio: 'Regina is a sophomore at The Harker School. She is competing in the USACO Silver division and has coded with C++ and Java. In her free time, she enjoys dancing and spending time with her cats.'
+          bio: 'Regina is a sophomore at The Harker School. She is competing in the USACO Gold division using C++ and is an AIME qualifier. In her free time, she enjoys dancing and spending time with her cats.'
         },
         {
           name: 'Rachel Li',

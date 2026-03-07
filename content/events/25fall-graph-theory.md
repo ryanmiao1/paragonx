@@ -8,7 +8,7 @@ instructor: Arjun Joisha
 description: 'This 8-week course will cover basic and intermediate graph theory, including olympiad graph theory topics as well as ideas which have applications in competitive programming.'
 registration: 'https://forms.gle/RwaWnCfjo6sHwfae6'
 type: 'Online Class'
-open: True
+open: False
 season: 'Fall 2025'
 ---
 
