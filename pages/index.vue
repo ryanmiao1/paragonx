@@ -9,7 +9,7 @@
       </div>
       <div class="mt-6">
         <v-btn x-large depressed to="/events" color="primary" class="my-1 mr-sm-1 w-full w-sm-auto">
-          Fall 2025 Courses
+          Spring 2026 Courses
         </v-btn>
         <v-btn x-large outlined href="https://discord.com/invite/kSXnnMm244" target="_blank" class="my-1 ml-sm-1 w-full w-sm-auto">
           Join Discord
