@@ -2,8 +2,8 @@
 title: 'USACO Bronze'
 location: Zoom
 time: 'Saturday 2:00 PM-3:30 PM PT'
-dateStart: '2026-03-14'
-dateEnd: '2026-05-02'
+dateStart: '2026-03-21'
+dateEnd: '2026-05-09'
 instructor: Regina Zhang
 description: 'This eight-week course will cover the important topics to know for USACO Bronze and is designed for students with basic knowledge of programming.'
 
