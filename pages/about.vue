@@ -112,7 +112,7 @@ export default {
           name: 'Shamik Khowala',
           title: 'Head of Physics',
           image: '/images/bio/shamik.png',
-          bio: 'Shamik Khowala is a junior at the Harker School. He has qualified for AIME four times as well as participated in several college math competitions, including BMT, HMMT, and SMT. He is also part of Harker’s Science Bowl team. He has earned a bronze medal in USAPhO and a bronze in National Astronomy Competition (NAC). At school, he is an active member of the math, physical sciences, and astronomy clubs. In his free time, he loves to explore advanced math and physics topics and solve interesting problems.'
+          bio: 'Shamik Khowala is a junior at the Harker School. He has qualified for AIME five times as well as participated in several college math competitions, including BMT, HMMT, and SMT. He placed 51st overall at HMMT 2026. He is also part of Harker’s Science Bowl A team. He has earned a bronze medal in USAPhO and a bronze in National Astronomy Competition (NAC). At school, he is an active member of the math, physical sciences, and astronomy clubs. In his free time, he loves to explore advanced math and physics topics and solve interesting problems.'
         },
         {
           name: 'Pascal Qin',
