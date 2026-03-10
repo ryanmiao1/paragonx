@@ -2,8 +2,8 @@
 title: 'Advanced Mechanics'
 location: Zoom
 time: 'Sunday 12:30 PM-2:00 PM PT'
-dateStart: '2026-03-15'
-dateEnd: '2026-05-03'
+dateStart: '2026-03-22'
+dateEnd: '2026-05-10'
 instructor: Alex Jin
 description: 'This course is for highly motivated students who want to do USAPhO-level (or other equivalent national Olympiad) questions on classical mechanics.'
 
