@@ -84,7 +84,7 @@ export default {
         {
           name: 'Ryan Miao',
           image: '/images/bio/ryan.png',
-          bio: 'Ryan is a junior at The Harker School. He is an AIME qualifier, USNCO national qualifier, USACO Gold Division competitor, and has experience in Java and Python. He is also interested in Neuroscience and Artificial Intelligence and enjoys playing tennis and dancing in his free time.'
+          bio: 'Ryan is a junior at The Harker School. He is a two-time AIME qualifier, two-time USNCO national qualifier, USACO Gold Division competitor, and has experience in Java and Python. He also participates in other chemistry competitions such as Berkeley Chemistry Tournament where his team won 3rd overall and he placed 7th in the individual round. He enjoys playing tennis and dancing in his free time.'
         },
         {
           name: 'Vaishnav Krishnan',
