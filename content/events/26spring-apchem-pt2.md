@@ -9,7 +9,7 @@ description: 'This 12-week class is the second of a 24-class offering (classes 1
 
 registration: 'https://forms.gle/PuQTADnNzwqsWbjX9'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2026'
 ---
 
