@@ -189,6 +189,11 @@ export default {
           name: 'Melody Wang',
           image: '/images/bio/melody.png',
           bio: 'Melody Wang is a high school junior at Basis Independent Fremont. She is a USABO semifinalist and a BBO gold medalist. She leads the Neuroscience Club at her school and also teaches dance at different community organizations. She is also passionate about research, competing in the  California Science and Engineering Fair and also getting into Broadcom Masters Top 300. In her spare time she enjoys nature walks and baking.'
+        },
+        {
+          name: 'Sanjith Senthil',
+          image: '/images/bio/sanjith.png',
+          bio: 'Sanjith Senthil is a junior at the Harker school. He is interested in computational biology and is a USABO semifinalist. Outside of STEM, he competes in debate tournaments and plays racing games.'
         }
       ],
       outreach: [
