@@ -212,6 +212,11 @@ export default {
           name: 'Mason Chang',
           image: '/images/bio/mason.png',
           bio: 'Mason Chang is a freshman at the Harker School. He has received an honorable Mention in the USMDO, and serves as the officer of outreach at the Harker Data Science Club. Last summer, he worked on an independent research project, collecting data worldwide and coming to conclusions on how much impact certain lifestyle habits have on mental health and daily stress levels, submitting his findings to a panel of college professors and industry professionals. He also conducts wet-lab experiments at home, running gel electrophoresis and isolating DNA from a pineapple using household materials. In his free time outside of biology, he enjoys piano and basketball.'
+        },
+        {
+          name: 'Selena Ghane',
+          image: '/images/bio/selena.png',
+          bio: 'Selena Ghane is a freshman at The Harker School who is broadly interested in the diverse applications of computational physics modeling across domains. She is passionate about research and has qualified for the California Science and Engineering Fair. In her free time, she enjoys playing volleyball and reading academic blogs.'
         }
       ]
     }

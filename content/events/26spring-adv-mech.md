@@ -9,7 +9,7 @@ description: 'This course is for highly motivated students who want to do USAPhO
 
 registration: 'https://forms.gle/3Ykk2q6jtLdRcYwr9'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2026'
 ---
 

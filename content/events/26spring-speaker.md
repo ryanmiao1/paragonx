@@ -6,7 +6,7 @@ dateStart: '2026-04-12'
 description: 'Five accomplished panelists will talk about their STEM journey, including competitions, research, and entrepreneurship. There will also be a Q&A session.'
 registration: 'http://docs.google.com/forms/d/e/1FAIpQLSeUqw0N2Y7NGffDVoL6Fr9sIFjQY6vOx_GpQl5E71eOCnum2w/viewform'
 type: 'Speaker Event'
-open: True
+open: False
 zoom: 'https://us05web.zoom.us/j/7381417433?pwd=HE0Psmp89KYbnlFP4VYsc6KeQ2NELf.1'
 ---
 
