@@ -83,7 +83,7 @@ export default {
         {
           name: 'Avi Malhotra',
           image: 'images/bio/avi.jpeg',
-          bio: 'Avi Malhotra is a sophomore at Fremont High School in California. He is interested in math, computer science, physics, and robotics. He is an AIME qualifier, USACO Silver, BMT DHM, and loves making random machine learning models(especially in the field of medicine). In his free time, he likes to play tennis, basketball, and spend time with friends.'
+          bio: 'Avi Malhotra is a sophomore at Fremont High School in California. He is interested in math, computer science, physics, and robotics. He is an AIME qualifier, USACO Silver, BMT DHM, and loves making random machine learning models (especially in the field of medicine). In his free time, he likes to play tennis, basketball, and spend time with friends.'
         }
       ],
       physics: [

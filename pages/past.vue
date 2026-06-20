@@ -66,7 +66,7 @@ export default {
         },
         {
           name: 'Dustin Miao',
-          title: 'Carnegie Mellon \'28',
+          title: 'CMU \'28',
           image: '/images/bio/dustin.jpg',
           bio: 'Dustin graduated from the Harker School in 2024. He is in USACO\'s platinum division and a master on Codeforces, and is also interested in web development and artificial intelligence. In his spare time, he enjoys playing cello.'
         },
@@ -96,7 +96,7 @@ export default {
         },
         {
           name: 'Alex Huang',
-          title: 'USC \'29',
+          title: 'Oxford \'30',
           image: '/images/bio/alex.jpg',
           bio: 'Alex Huang graduated from The Harker School in 2025 and is a 2021 MathCounts National Round qualifier, four-time AIME qualifier, participant in The Ross Mathematics Program 2023 and 2024, and PRIMES-USA 2024 researcher. Fluent in C++, Java, and Python, he enjoys applying scientific machine learning to elucidate biophysical processes. To disseminate his knowledge to aspiring students, he has led volunteer teaching initiatives and has won the President\'s Volunteer Service Gold Award three times. In his free time, he enjoys playing bridge and engaging friends in thought-provoking conversations.'
         },
@@ -199,7 +199,7 @@ export default {
         {
           name: 'Eric Dong',
           image: '/images/bio/eric.jpg',
-          title: 'Georgia Tech \'30',
+          title: 'CMU \'30',
           bio: 'Eric Dong graduated from The Harker School in 2026. He is active in STEM competitions, having competed in, earned awards in, and prepared for the AMC, AIME, BMT, SMT, F=ma, and USAAAO. He is also a president of his school’s astronomy club and an active member of the science bowl team. He also enjoys engaging in research, having interned at UC Davis and having worked on a project about neutron star habitability. Outside of STEM, he is an avid clarinetist and competitive swimmer.'
         },
         {
