@@ -204,6 +204,7 @@ export default {
         },
         {
           name: 'Vaishnav Krishnan',
+          title: 'UT Austin \'30',
           image: '/images/bio/vaishnav.png',
           bio: 'Vaishnav graduated from Obra D. Tompkins High School in 2026. He represents his school in UIL Computer Science and is currently competing in USACO Gold. He is very passionate about teaching computer science and enjoys learning advanced techniques in computer science such as dynamic programming and segment trees. In his free time, he likes playing music and working out at the gym.'
         },
