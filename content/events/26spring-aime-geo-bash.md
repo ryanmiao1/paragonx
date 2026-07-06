@@ -9,7 +9,7 @@ description: 'This 8-week course is designed to teach students how to effectivel
 
 registration: 'https://forms.gle/oXEqGoPFPZicR5qQ7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2026'
 ---
 

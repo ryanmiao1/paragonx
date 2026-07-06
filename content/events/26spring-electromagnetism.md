@@ -9,7 +9,7 @@ description: 'This course is for students who are at around the AP Physics C lev
 
 registration: 'https://forms.gle/sGzmN8cYfSmqwnGa7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2026'
 ---
 

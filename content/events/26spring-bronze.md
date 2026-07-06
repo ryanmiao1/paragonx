@@ -9,7 +9,7 @@ description: 'This eight-week course will cover the important topics to know for
 
 registration: 'https://forms.gle/Vj46EzPrefd1V7hEA'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2026'
 ---
 

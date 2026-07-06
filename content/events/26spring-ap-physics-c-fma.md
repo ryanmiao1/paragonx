@@ -9,7 +9,7 @@ description: 'This eight-week course will prepare students for the AP Physics C 
 
 registration: 'https://forms.gle/CZCTTdjJJTExf2Gu5'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2026'
 ---
 

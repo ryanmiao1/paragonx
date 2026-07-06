@@ -7,7 +7,7 @@
       <div style="width: 80px; height: 4px" class="my-4 secondary mx-auto" />
       <div class="text--lighten-2 mt-4 text-body-1 text-center">
         Click on cards to see details and registration information.
-        <p>The zoom link for all courses is <a href="https://us05web.zoom.us/j/7381417433?pwd=HE0Psmp89KYbnlFP4VYsc6KeQ2NELf.1">https://us05web.zoom.us/j/7381417433?pwd=HE0Psmp89KYbnlFP4VYsc6KeQ2NELf.1</a>.</p>
+        <p>The zoom link for all courses is <a href="https://us05web.zoom.us/j/7841359993?pwd=TnI5U3JDNC9QZXRUeXNDTnNrbE0wdz09">https://us05web.zoom.us/j/7841359993?pwd=TnI5U3JDNC9QZXRUeXNDTnNrbE0wdz09</a>.</p>
       </div>
     </v-container>
     <v-container v-if="onlineClasses.length>0" class="mt-2">
@@ -63,8 +63,8 @@ export default {
   },
   data () {
     return {
-      seasons: ['Spring 2026', 'Fall 2025', 'Summer 2025', 'Spring 2025', 'Fall 2024', 'Summer 2024', 'Spring 2024', 'Fall 2023', 'Summer 2023', 'Spring 2023', 'Fall 2022', 'Fall 2021'],
-      currentSeason: 'Spring 2026'
+      seasons: ['Summer 2026', 'Spring 2026', 'Fall 2025', 'Summer 2025', 'Spring 2025', 'Fall 2024', 'Summer 2024', 'Spring 2024', 'Fall 2023', 'Summer 2023', 'Spring 2023', 'Fall 2022', 'Fall 2021'],
+      currentSeason: 'Summer 2026'
     }
   },
   head () {

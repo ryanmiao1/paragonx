@@ -31,20 +31,20 @@ export default {
           name: 'Shamik Khowala',
           title: 'Co-President',
           image: '/images/bio/shamik.png',
-          bio: 'Shamik Khowala is a senior at the Harker School. He has qualified for AIME five times as well as participated in several college math competitions, including BMT, HMMT, and SMT. He placed 51st overall at HMMT 2026. He is also part of Harker’s Science Bowl A team. He has earned a bronze medal in USAPhO and a bronze in National Astronomy Competition (NAC). At school, he is an active member of the math, physical sciences, and astronomy clubs. In his free time, he loves to explore advanced math and physics topics and solve interesting problems.'
+          bio: 'Shamik Khowala is a senior at the Harker School. He has qualified for AIME several times as well as achieved individual ranks and honors in several college math competitions like BMT, HMMT, SMT & PUMaC. He has captained Harker’s Science Bowl A team. He has earned a gold medal in USAMTS, bronze in USAPhO and a bronze in National Astronomy Competition (NAC). At school, he is an active member of the math, physical sciences, and astronomy clubs. In his free time, Shamik enjoys reading speculative fiction and WWII novels.'
         },
         {
           name: 'Yash Belani',
           title: 'Co-Vice President',
           image: '/images/bio/yash.png',
-          bio: 'Yash Belani is a senior at the Harker School. He is competing in the USACO Platinum division and attends many coding competitions in the US like BAPC, Proco, mBIT, and M(IT)2. He is also a problem writer for Teamscode, HPI, and Codeforces. In his free time, he enjoys playing many sports like basketball, table tennis, or tennis.'
+          bio: 'Yash Belani is a senior at the Harker School. He competes in the USACO Platinum division and was a USACO Finalist in 2026. He attends many coding competitions in the US like BAPC, Proco, mBIT, and M(IT)2. He is also a problem writer for Teamscode, HPI, Codeforces, and USACO. In his free time, he enjoys playing many sports like basketball, table tennis, or tennis.'
         },
         {
           name: 'Leo Zhang',
           title: 'Co-Vice President',
           image: '/images/bio/leo.png',
           bio: 'Leo Zhang is a senior at The Harker School. He has qualified for AIME two times and made it to the national level of USNCO. In his free time, he enjoys playing chess, Brawl Stars, card games, and solving difficult logic puzzles.'
-        },
+        }
       ],
       math: [
         {
@@ -56,6 +56,11 @@ export default {
           name: 'Benjamin Tang',
           image: '/images/bio/ben.jpg',
           bio: 'Benjamin Tang is a sophomore at Del Norte High School in San Diego, Calfornia. He enjoys physics, math, coding, and chess. He is a 4x AIME + USAJMO qualifier, USACO Silver qualifier, and chess FIDE Master. In his free time, Benjamin likes to hike and run, code fun projects, and play board games.'
+        },
+        {
+          name: 'Hengrui Liang',
+          image: '/images/bio/hengrui.png',
+          bio: 'Hengrui is a senior at The Harker School. He is a USAMO medalist, USAJMO Winner, and a BMT and SMT Distinguished HM. In his free time, he enjoys playing chess and board games, reading science magazines, and hiking.'
         },
         {
           name: 'Vihaan Gupta',
@@ -84,6 +89,21 @@ export default {
           name: 'Avi Malhotra',
           image: 'images/bio/avi.jpeg',
           bio: 'Avi Malhotra is a sophomore at Fremont High School in California. He is interested in math, computer science, physics, and robotics. He is an AIME qualifier, USACO Silver, BMT DHM, and loves making random machine learning models (especially in the field of medicine). In his free time, he likes to play tennis, basketball, and spend time with friends.'
+        },
+        {
+          name: 'Dennis Yang',
+          image: 'images/bio/dennis.png',
+          bio: 'Dennis is a rising junior at Carlmont High School. He is a competitor in USACO and was a finalist during the \'25 and \'26 seasons. He also does USAAIO in which he qualified for camp in the \'26 season. Outside of programming and AI, he also does some research and math. In his free time, he likes finding good eats and sleeping.'
+        },
+        {
+          name: 'Aiden Lei',
+          image: 'images/bio/aiden.png',
+          bio: 'Aiden is a junior at the Harker School. He is interested in computer science, physics, and finance. He competes in USACO gold and published 2 AI papers accepted at ICML and NAACL worshops. In his free time, he likes to talk with friends'
+        },
+        {
+          name: 'Sarah Zhang',
+          image: 'images/bio/sarah.png',
+          bio: 'Sarah Zhang is a sophomore at Dublin Jerome High School in Dublin, Ohio. She loves anything STEM, especially math and computer science. She codes in Java and is a USACO Silver competitor. In her free time, she loves reading books, playing volleyball, and playing viola.'
         }
       ],
       physics: [
@@ -97,6 +117,11 @@ export default {
           name: 'Pascal Qin',
           image: '/images/bio/pascal.png',
           bio: 'Pascal Qin is a senior at The Harker School. He has qualified for AIME and USACO Silver, earned silver at USAPhO, and earned bronze at the National Astronomy Competition. Pascal has studied physics for two years now and has participated in several physics contests, such as USAYPT and Physics Brawl. In his free time, he enjoys playing basketball and listening to music.'
+        },
+        {
+          name: 'Kevin He',
+          image: '/images/bio/kevinhe.png',
+          bio: 'Kevin is a senior at The Harker School. He has qualified for the AIME, earned an honorable mention at USAPhO, and also takes part in other STEM related activities such as USAYPT, USNCO, and robotics where he is a design lead on the school team. In his free time, he loves to play golf, saxophone, and chess.'
         }
       ],
       chem: [
@@ -104,12 +129,12 @@ export default {
           name: 'Ryan Miao',
           image: '/images/bio/ryan.png',
           title: 'Head of Chemistry',
-          bio: 'Ryan is a senior at The Harker School. He is a USNCO camper, a two-time AIME qualifier, and is currently competing in the USACO Gold Division. He enjoys playing tennis, dancing, and hanging out with his cats in his free time.'
+          bio: 'Ryan is a senior at The Harker School. He is a USNCO camper, 2x AIME, and is currently in USACO Gold. He enjoys playing tennis, dancing, and hanging out with his cats in his free time.'
         },
         {
-          name: 'Kevin He',
-          image: '/images/bio/kevinhe.png',
-          bio: 'Kevin is a senior at The Harker School. He has qualified for the AIME, earned an honorable mention at USAPhO, and also takes part in other STEM related activities such as USAYPT, USNCO, and robotics where he is a design lead on the school team. In his free time, he loves to play golf, saxophone, and chess.'
+          name: 'Jeffrey Yang',
+          image: '/images/bio/jeffrey.png',
+          bio: 'Jeffrey is a senior at the Princeton International School of Math and Science. He is a USNCO high honors. He enjoys playing valorant, roblox and tennis.'
         },
         {
           name: 'Richard Peng',
@@ -129,7 +154,7 @@ export default {
           name: 'Mason Chang',
           title: 'Head of Outreach',
           image: '/images/bio/mason.png',
-          bio: 'Mason Chang is a sophomore at the Harker School. He has received an honorable Mention in the USMDO, and serves as the officer of outreach at the Harker Data Science Club. Last summer, he worked on an independent research project, collecting data worldwide and coming to conclusions on how much impact certain lifestyle habits have on mental health and daily stress levels, submitting his findings to a panel of college professors and industry professionals. He also conducts wet-lab experiments at home, running gel electrophoresis and isolating DNA from a pineapple using household materials. In his free time outside of biology, he enjoys piano and basketball.'
+          bio: 'Mason Chang is a sophomore at the Harker School. He loves biology and enjoys running his own bioengineering experiments at home. He also does independent research projects. In his free time, he enjoys piano and basketball.'
         },
         {
           name: 'Selena Ghane',

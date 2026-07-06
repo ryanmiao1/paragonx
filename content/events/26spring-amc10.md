@@ -9,7 +9,7 @@ description: 'This eight-week course is for students aiming to qualify for the A
 
 registration: 'https://forms.gle/6xu6d5tPACQ2ivgJ7' 
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2026'
 ---
 

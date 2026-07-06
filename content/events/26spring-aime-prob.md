@@ -9,7 +9,7 @@ description: 'This 6-week class is designed to bridge the gap between AMC10/12 p
 
 registration: 'https://forms.gle/AYdrrBix9ufiq8nx6'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2026'
 ---
 

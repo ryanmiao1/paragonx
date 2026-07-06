@@ -9,7 +9,7 @@ description: 'This eight-week, hands-on course is designed for students who want
 
 registration: 'https://forms.gle/P9A4QK28Kgj7eRPf9'
 type: 'Online Class'
-open: True
+open: False
 season: 'Spring 2026'
 ---
 

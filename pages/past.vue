@@ -214,11 +214,6 @@ export default {
           image: '/images/bio/akshitaa.png'
         },
         {
-          name: 'Hengrui Liang',
-          image: '/images/bio/hengrui.png',
-          bio: 'Hengrui is a senior at The Harker School. He is a USAMO medalist, USAJMO Winner, and a BMT and SMT Distinguished HM. In his free time, he enjoys playing chess and board games, reading science magazines, and hiking.'
-        },
-        {
           name: 'William Jiang',
           image: '/images/bio/william.png',
           bio: 'William is a senior at The Harker School. He is very passionate about physics and chemistry, participating in competitions like USAYPT, Physics Brawl, and USNCO, as well as working on research projects related to the intersection of physics, chemistry, and machine learning. In his free time, he enjoys playing chess and solving interesting physics problems.'
