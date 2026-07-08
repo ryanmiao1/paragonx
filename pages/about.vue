@@ -71,6 +71,11 @@ export default {
           name: 'Philip Dong',
           image: '/images/bio/philip.jpeg',
           bio: 'Philip Dong is a sophomore at Cupertino High School, and is very interested in math, coding, and science. He got AMC 10 DHM, is an AIME qualifier, USA(J)MO qualifier, and achieved USNCO honors. He is really passionate about computational biology, and in his free time, he likes to play tennis, play the piano, play games, and eat.'
+        },
+        {
+          name: 'Akshitaa Arun',
+          bio: 'Akshitaa Arun (Akshu/Ash) graduated high school in 2026 in Tamil Nadu, India. She has attended various math camps in India such as PROMYS INDIA 2024, RAMTP 2023, AGMNC 2022 & 2023. She is a teaching assistant Athemath, a part of the international outreach team of URBAN HARMONY PROJECT and runs NC^2! She enjoys tutoring outside school, and showing people that math can be fun! She loves puzzles (especially sudoku) and singing!',
+          image: '/images/bio/akshitaa.png'
         }
       ],
       cs: [
