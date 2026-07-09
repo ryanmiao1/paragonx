@@ -145,6 +145,11 @@ export default {
           name: 'Richard Peng',
           image: '/images/bio/richard.png',
           bio: 'Richard Peng is a senior at Archbishop Mitty High School. He has earned honors in USNCO Nationals and does science bowl as well. He enjoys the intuitive nature of chemistry and how it can explain the world. Richard also enjoys biology, economics, and badminton.'
+        },
+        {
+          name: 'Shivan Shrinivas',
+          image: '/images/bio/shivan.png',
+          bio: 'Shivan Shrinivas is a senior at Montgomery High School. He is a USNCO High Honors Medalist as well as a NJ Governor\'s School in the Sciences attendee. In his free time, he enjoys theater, piano, and writing physics simulations. He is looking forward to sharing his love of physics and chemistry with students!'
         }
       ],
       bio: [
