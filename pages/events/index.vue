@@ -7,7 +7,6 @@
       <div style="width: 80px; height: 4px" class="my-4 secondary mx-auto" />
       <div class="text--lighten-2 mt-4 text-body-1 text-center">
         Click on cards to see details and registration information.
-        <p>The zoom link for all courses is <a href="https://us05web.zoom.us/j/7841359993?pwd=TnI5U3JDNC9QZXRUeXNDTnNrbE0wdz09">https://us05web.zoom.us/j/7841359993?pwd=TnI5U3JDNC9QZXRUeXNDTnNrbE0wdz09</a>.</p>
       </div>
     </v-container>
     <v-container v-if="onlineClasses.length>0" class="mt-2">
