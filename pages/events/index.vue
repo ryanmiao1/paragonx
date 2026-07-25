@@ -6,7 +6,7 @@
       </h2>
       <div style="width: 80px; height: 4px" class="my-4 secondary mx-auto" />
       <div class="text--lighten-2 mt-4 text-body-1 text-center">
-        Click on cards to see details and registration information.
+        Click on cards to see details and registration information. All times are in PDT (Pacific Daylight Time).
       </div>
     </v-container>
     <v-container v-if="onlineClasses.length>0" class="mt-2">
