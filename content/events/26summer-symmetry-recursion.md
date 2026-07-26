@@ -2,8 +2,8 @@
 title: 'Symmetry and Recursion'
 location: Zoom
 time: 'Saturday 10:00 AM-11:30 AM PDT'
-dateStart: '2026-07-25'
-dateEnd: '2026-08-15'
+dateStart: '2026-08-01'
+dateEnd: '2026-08-22'
 instructor: Benjamin Tang
 description: 'This four-week course covers in-depth topics of recursive and symmetric systems, with a little bit of higher level math. This course is meant for AIME-level students.'
 
