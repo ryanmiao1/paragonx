@@ -105,7 +105,7 @@
           </v-img>
         </v-carousel-item>
       </v-carousel>
-      <v-row class="mt-2">
+      <v-row class="mt-2" justify="center">
         <v-col
           v-for="(item, i) in stats"
           :key="i"
@@ -267,6 +267,12 @@ export default {
       }, {
         title: 'Classes Taught',
         value: '480+' // total value: 216, summer 2026
+      }, {
+        title: 'Countries',
+        value: '24' // summer 2026
+      }, {
+        title: 'U.S. States',
+        value: '17' // summer 2026
       }],
       partners: [
         {
