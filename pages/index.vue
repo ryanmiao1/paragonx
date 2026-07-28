@@ -260,13 +260,13 @@ export default {
       ],
       stats: [{
         title: 'Students Impacted',
-        value: '1500' // total value: 1485, summer 2024 (not including events or spring 2024)
+        value: '3500' // total value: 3544 up until (including) summer 2026
       }, {
         title: 'Courses and Events',
-        value: '36' // summer 2024
+        value: '84' // summer 2026
       }, {
         title: 'Classes Taught',
-        value: '200+' // total value: 216, summer 2024
+        value: '480+' // total value: 216, summer 2026
       }],
       partners: [
         {
