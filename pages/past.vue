@@ -182,7 +182,7 @@ export default {
           name: 'Arjun Joisha',
           image: '/images/bio/arjunj.png',
           title: 'Georgia Tech \'30',
-          bio: 'Arjun Joisha graduated from Lynbrook High School in 2026. He is a 3 time AIME qualifier, won a bronze medal twice and a silver medal once at the PiMC, and continues to compete in several other regional and college mathematics competitions, including the Stanford Math Tournament and the Berkeley Math Tournament. When not working on math competitions, he also enjoys competitive programming, and has reached USACO Gold. In his free time, you can find him hanging out with his friends, reading interesting math articles, or playing chess or Minecraft.'
+          bio: 'Arjun Joisha graduated from Lynbrook High School in 2026. He is a 4 time AIME qualifier, won a bronze medal twice and a silver medal once at the PiMC, and continues to compete in several other regional and college mathematics competitions, including the Stanford Math Tournament and the Berkeley Math Tournament. When not working on math competitions, he also enjoys competitive programming, and has reached USACO Gold. In his free time, you can find him hanging out with his friends, reading interesting math articles, or playing chess or Minecraft.'
         },
         {
           name: 'Terry Xie',
