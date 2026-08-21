@@ -49,6 +49,7 @@ export default {
       math: [
         {
           name: 'Andrew Shi',
+          title: 'Head of Math',
           image: '/images/bio/andrewshi.jpg',
           bio: 'Andrew Shi is a junior at The Harker School. He is a USACO Platinum contestant and qualified once for the USAJMO, receiving an honorable mention. If he had to choose between math and CS, he would pick math. When not programming with his friends or doing math, you may find him playing tennis.'
         },
@@ -76,6 +77,11 @@ export default {
           name: 'Akshitaa Arun',
           bio: 'Akshitaa Arun (Akshu/Ash) graduated high school in 2026 in Tamil Nadu, India. She has attended various math camps in India such as PROMYS INDIA 2024, RAMTP 2023, AGMNC 2022 & 2023. She is a teaching assistant Athemath, a part of the international outreach team of URBAN HARMONY PROJECT and runs NC^2! She enjoys tutoring outside school, and showing people that math can be fun! She loves puzzles (especially sudoku) and singing!',
           image: '/images/bio/akshitaa.png'
+        },
+        {
+          name: 'Sanyi Yao',
+          bio: 'Sanyi Yao is a sophomore at The Harker School with interests in physics, mathematics, and engineering. She is an MPFG qualifier and AIME qualifier. Her engineering research earned First Award at the Synopsys and qualified for the CSEF. Outside of STEM, Sanyi is a dedicated pianist who has won top prizes in numerous competitions. In her free time, she enjoys watching The Big Bang theory on repeat.',
+          image: '/images/bio/sanyi.png'
         }
       ],
       cs: [
