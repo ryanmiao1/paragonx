@@ -205,13 +205,13 @@ export default {
       }],
       testimonials: [{
         name: 'AMC 8 Student',
-        testimonial: 'Alex was very knowledgeable and nice to speak with. He is a better teacher than many teachers that I have had in school, as he has personal experience with what he teaches.'
+        testimonial: 'My teacher was very knowledgeable and nice to speak with. He is a better teacher than many teachers that I have had in school, as he has personal experience with what he teaches.'
       }, {
         name: 'Advanced Mechanics Student',
-        testimonial: 'This class was excellent overall and really exceeded my expectations. The two teachers were both really nice and answered all questions patiently, always making students feel inclusive. The homework selections and explanations during class were really helpful to my learning. The tricks covered during class were also niche to be but practical in many olympiad problems.'
+        testimonial: 'This class was excellent overall and really exceeded my expectations. The two teachers were both really nice and answered all questions patiently, always making students feel inclusive. The homework selections and explanations during class were really helpful to my learning. The tricks covered during class were also niche but practical in many olympiad problems.'
       }, {
         name: 'Parent of USACO Bronze Student',
-        testimonial: 'Aiden Lei, thank you for being a great teacher and appreciate your commitment and dedication. My son enjoyed your USACO Bronze class and learnt a lot.'
+        testimonial: 'Thank you for being a great teacher and appreciate your commitment and dedication. My son enjoyed your USACO Bronze class and learnt a lot.'
       }],
       colors: [
         'indigo',
