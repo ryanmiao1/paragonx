@@ -207,11 +207,11 @@ export default {
         name: 'AMC 8 Student',
         testimonial: 'Alex was very knowledgeable and nice to speak with. He is a better teacher than many teachers that I have had in school, as he has personal experience with what he teaches.'
       }, {
-        name: 'AMC 10 to AIME Student',
-        testimonial: 'This course is really good! I learned quite a lot about AMC 10 concepts (specifically geometry and combinatorics). Austin and Neil are wonderful teachers who made the concepts very clear and gave motivated solutions to the problems.'
+        name: 'Advanced Mechanics Student',
+        testimonial: 'This class was excellent overall and really exceeded my expectations. The two teachers were both really nice and answered all questions patiently, always making students feel inclusive. The homework selections and explanations during class were really helpful to my learning. The tricks covered during class were also niche to be but practical in many olympiad problems.'
       }, {
-        name: 'Biology and USABO Student',
-        testimonial: 'Arjun was a very good instructor. He explained the concepts in an easy to understand way and clearly had lots of knowledge on the subject.'
+        name: 'Parent of USACO Bronze Student',
+        testimonial: 'Aiden Lei, thank you for being a great teacher and appreciate your commitment and dedication. My son enjoyed your USACO Bronze class and learnt a lot.'
       }],
       colors: [
         'indigo',
