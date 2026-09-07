@@ -9,7 +9,7 @@ description: 'This four-week course covers in-depth topics of recursive and symm
 
 registration: 'https://forms.gle/7VrPEs6CHGbEnCif7'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2026'
 ---
 

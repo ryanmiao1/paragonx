@@ -9,7 +9,7 @@ description: 'This course is for students who have a solid understanding of Alge
 
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLScNxzSAAZrBpmjpGidP8D6fA74vqOypEUqlbNfzqgi11J4BjA/viewform'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2026'
 ---
 

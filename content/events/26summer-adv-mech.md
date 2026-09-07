@@ -9,7 +9,7 @@ description: 'This four-week course is designed for students who want to master 
 
 registration: 'https://forms.gle/FxJBHV7JDUCyNxqg8'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2026'
 ---
 

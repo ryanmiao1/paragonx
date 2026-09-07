@@ -289,6 +289,11 @@ export default {
           name: 'BioCataalysis',
           image: '/images/partners/biocataalysis.png',
           link: 'https://biocataalysis.org'
+        },
+        {
+          name: 'Non-Trivial',
+          image: '/images/partners/nontrivial.png',
+          link: 'https://www.non-trivial.org/'
         }
       ]
     }

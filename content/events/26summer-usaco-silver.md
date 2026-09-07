@@ -9,7 +9,7 @@ description: 'This four-week course will cover the important topics to know for 
 
 registration: 'https://forms.gle/AASG5StUMKRwczHAA'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2026'
 ---
 

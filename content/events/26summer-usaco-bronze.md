@@ -9,7 +9,7 @@ description: 'This 4 week course will teach fundamental USACO Bronze topics.'
 
 registration: 'https://forms.gle/7DreDWqtCJv7Gm3m9'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2026'
 ---
 

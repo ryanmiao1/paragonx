@@ -10,7 +10,24 @@
     <officer-list :people="cs" title="Computer Science Officers" />
     <officer-list :people="physics" title="Physics Officers" />
     <officer-list :people="chem" title="Chemistry Officers" />
-    <officer-list :people="bio" title="Biology Officers" />
+    <officer-list
+      v-if="bio.length"
+      :people="bio"
+      title="Biology Officers"
+    />
+
+    <v-container v-else>
+      <h3 class="text-md-h3 text-h4 text-center">
+        Biology Officers
+      </h3>
+
+      <p class="text-center mt-4">
+        We're looking for biology instructors!
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7IKp_IHlQv2OlOs61U0cb_NrqDGq85MRxQprue2lQiO508A/viewform" target="_blank">
+          Apply here.
+        </a>
+      </p>
+    </v-container>
     <officer-list :people="outreach" title="Outreach Team" />
   </div>
 </template>
@@ -64,19 +81,9 @@ export default {
           bio: 'Hengrui is a senior at The Harker School. He is a USAMO medalist, USAJMO Winner, and a BMT and SMT Distinguished HM. In his free time, he enjoys playing chess and board games, reading science magazines, and hiking.'
         },
         {
-          name: 'Vihaan Gupta',
-          image: '/images/bio/vihaan.jpeg',
-          bio: 'Vihaan Gupta is a junior at the Harker School interested in various STEM subjects. He is a 6x AIME Qualifier, USA(J)MO Top Honors, and SMT/BMT Top 10 recipient. In his free time, he enjoys playing all sorts of games with his friends.'
-        },
-        {
           name: 'Philip Dong',
           image: '/images/bio/philip.jpeg',
           bio: 'Philip Dong is a sophomore at Cupertino High School, and is very interested in math, coding, and science. He got AMC 10 DHM, is an AIME qualifier, USA(J)MO qualifier, and achieved USNCO honors. He is really passionate about computational biology, and in his free time, he likes to play tennis, play the piano, play games, and eat.'
-        },
-        {
-          name: 'Akshitaa Arun',
-          bio: 'Akshitaa Arun (Akshu/Ash) graduated high school in 2026 in Tamil Nadu, India. She has attended various math camps in India such as PROMYS INDIA 2024, RAMTP 2023, AGMNC 2022 & 2023. She is a teaching assistant Athemath, a part of the international outreach team of URBAN HARMONY PROJECT and runs NC^2! She enjoys tutoring outside school, and showing people that math can be fun! She loves puzzles (especially sudoku) and singing!',
-          image: '/images/bio/akshitaa.png'
         },
         {
           name: 'Sanyi Yao',
@@ -125,11 +132,6 @@ export default {
           bio: 'Lucas Wu is a junior at The Harker School. He won the Gold Award at the Berkeley Physics Tournament, earned two honorable mentions at the USAPhO, and received Distinguished Honorable Mention at the Berkeley Math Tournament. He leads photonics research at UC Berkeley and has twice won First Award at the Synopsys Science and Engineering Fair, qualifying for CSEF both times. Lucas enjoys physics and can often be found solving interesting problems. In his free time, he plays piano, watches Formula 1, and runs.'
         },
         {
-          name: 'Pascal Qin',
-          image: '/images/bio/pascal.png',
-          bio: 'Pascal Qin is a senior at The Harker School. He has qualified for AIME and USACO Silver, earned silver at USAPhO, and earned bronze at the National Astronomy Competition. Pascal has studied physics for two years now and has participated in several physics contests, such as USAYPT and Physics Brawl. In his free time, he enjoys playing basketball and listening to music.'
-        },
-        {
           name: 'Kevin He',
           image: '/images/bio/kevinhe.png',
           bio: 'Kevin is a senior at The Harker School. He has qualified for the AIME, earned an honorable mention at USAPhO, and also takes part in other STEM related activities such as USAYPT, USNCO, and robotics where he is a design lead on the school team. In his free time, he loves to play golf, saxophone, and chess.'
@@ -159,11 +161,6 @@ export default {
         }
       ],
       bio: [
-        {
-          name: 'Sanjith Senthil',
-          image: '/images/bio/sanjith.png',
-          bio: 'Sanjith Senthil is a senior at the Harker school. He is interested in computational biology and is a USABO semifinalist. Outside of STEM, he competes in debate tournaments and plays racing games.'
-        }
       ],
       outreach: [
         {

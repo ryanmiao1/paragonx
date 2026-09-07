@@ -9,7 +9,7 @@ description: 'This introductory organic chemistry course provides students with 
 
 registration: 'https://forms.gle/PkbWxKNnsjS4sbBd8'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2026'
 ---
 

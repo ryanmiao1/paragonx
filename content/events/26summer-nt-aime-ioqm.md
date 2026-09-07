@@ -9,7 +9,7 @@ description: 'In this course students will learn the fundamental techniques that
 
 registration: 'https://forms.gle/vonvjABYFtLBGxpSA'
 type: 'Online Class'
-open: True
+open: False
 season: 'Summer 2026'
 ---
 

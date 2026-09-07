@@ -209,9 +209,19 @@ export default {
           bio: 'Vaishnav graduated from Obra D. Tompkins High School in 2026. He represents his school in UIL Computer Science and is currently competing in USACO Gold. He is very passionate about teaching computer science and enjoys learning advanced techniques in computer science such as dynamic programming and segment trees. In his free time, he likes playing music and working out at the gym.'
         },
         {
+          name: 'Akshitaa Arun',
+          bio: 'Akshitaa Arun (Akshu/Ash) graduated high school in 2026 in Tamil Nadu, India. She has attended various math camps in India such as PROMYS INDIA 2024, RAMTP 2023, AGMNC 2022 & 2023. She is a teaching assistant Athemath, a part of the international outreach team of URBAN HARMONY PROJECT and runs NC^2! She enjoys tutoring outside school, and showing people that math can be fun! She loves puzzles (especially sudoku) and singing!',
+          image: '/images/bio/akshitaa.png'
+        },
+        {
           name: 'William Jiang',
           image: '/images/bio/william.png',
           bio: 'William is a senior at The Harker School. He is very passionate about physics and chemistry, participating in competitions like USAYPT, Physics Brawl, and USNCO, as well as working on research projects related to the intersection of physics, chemistry, and machine learning. In his free time, he enjoys playing chess and solving interesting physics problems.'
+        },
+        {
+          name: 'Pascal Qin',
+          image: '/images/bio/pascal.png',
+          bio: 'Pascal Qin is a senior at The Harker School. He has qualified for AIME and USACO Silver, earned silver at USAPhO, and earned bronze at the National Astronomy Competition. Pascal has studied physics for two years now and has participated in several physics contests, such as USAYPT and Physics Brawl. In his free time, he enjoys playing basketball and listening to music.'
         },
         {
           name: 'Melody Wang',
@@ -232,6 +242,11 @@ export default {
           name: 'Annie Yu',
           image: '/images/bio/annie.png',
           bio: 'Annie Yu is a junior at The Harker School. She is a biology coach for Harker’s Middle School Science Bowl team and has taught at various other organizations. In her free time, she enjoys reading and writing literature, volunteering, and reading Campbell Biology.'
+        },
+        {
+          name: 'Vihaan Gupta',
+          image: '/images/bio/vihaan.jpeg',
+          bio: 'Vihaan Gupta is a junior at the Harker School interested in various STEM subjects. He is a 6x AIME Qualifier, USA(J)MO Top Honors, and SMT/BMT Top 10 recipient. In his free time, he enjoys playing all sorts of games with his friends.'
         }
       ]
     }
