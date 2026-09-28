@@ -4,7 +4,7 @@ location: Zoom
 time: 'Saturday 9:00 AM-10:30 AM PT'
 dateStart: '2026-10-17'
 dateEnd: '2026-12-05'
-instructor: Regina Zhang and Andrew Shi
+instructor: Regina Zhang
 description: 'This course covers the key algorithms and data structures needed to progress through USACO Silver.'
 
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSdDxOw_QC7Qj0gvZtrTYMc45hN40JmBRSbu3QZwUNEYjUe6LA/viewform?usp=dialog'
