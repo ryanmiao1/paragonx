@@ -1,7 +1,7 @@
 ---
 title: 'Advanced AMC 8'
 location: Zoom
-time: 'Saturday 6:30 PM-8:00 PM PT'
+time: 'Saturday 2:45 PM-4:15 PM PT'
 dateStart: '2026-10-17'
 dateEnd: '2026-12-05'
 instructor: Sanyi Yao

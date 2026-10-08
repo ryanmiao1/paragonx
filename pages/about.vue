@@ -89,6 +89,11 @@ export default {
           name: 'Sanyi Yao',
           bio: 'Sanyi Yao is a sophomore at The Harker School with interests in physics, mathematics, and engineering. She is an MPFG qualifier and AIME qualifier. Her engineering research earned First Award at the Synopsys and qualified for the CSEF. Outside of STEM, Sanyi is a dedicated pianist who has won top prizes in numerous competitions. In her free time, she enjoys watching The Big Bang theory on repeat.',
           image: '/images/bio/sanyi.png'
+        },
+        {
+          name: 'Sean Zhang',
+          bio: 'Sean Zhang is a freshman at The Harker School. He is an AIME Qualifier and also has competed in and received awards at BmMT, HMI, and MathCounts. Aside from math, he competes in the USACO Silver division and has programming experience in Python and Java. He is also passionate about machine learning and its applications in physical AI and also biomedical research. During his free time, he enjoys playing basketball, spending time with his dog, and watching anime (his favorite is Hunter X Hunter).',
+          image: '/images/bio/sean.png'
         }
       ],
       cs: [

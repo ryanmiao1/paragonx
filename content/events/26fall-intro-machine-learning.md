@@ -4,7 +4,7 @@ location: Zoom
 time: 'Sunday 4:30 PM-6:00 PM PT'
 dateStart: '2026-10-18'
 dateEnd: '2026-12-06'
-instructor: Avi
+instructor: Avi Malhotra
 description: 'This course introduces the fundamental ideas, methods, and applications behind modern artificial intelligence and machine learning.'
 
 registration: 'https://docs.google.com/forms/d/e/1FAIpQLSfhrfvN4xHXYKn7sp7pOzerkCIQZSRw4zQP1pSbZ1qB-Kos7Q/viewform?usp=dialog'
